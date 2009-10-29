@@ -8,7 +8,6 @@
 
 #import "Movie.h"
 
-
 @implementation Movie
 
 @synthesize title;
